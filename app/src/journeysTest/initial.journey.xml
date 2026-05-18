@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journey name="Initial Journey">
+    <description>ping Firebase database</description>
+    <actions xml:space="preserve">
+        <action>Meterial 3 Expressive window with an M3 button, labeld "ping DB", that, when tapped, pings the database, described in step 2</action><action>connect to Firebase using the google-services.json file and disconnect</action><action>report "ping successfull" in the window, if everything works. otherwise report the error in the same window</action>
+    </actions>
+</journey>
