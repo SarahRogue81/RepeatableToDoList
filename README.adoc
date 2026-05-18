@@ -1,0 +1,11 @@
+= Repeatable To-Do List
+
+:date: 2025-05-18 13:41
+:summary: repeatable to-dist list app for Android SDK 37 so it uses Gemini Intelligence for Magic Cursor and creating new Widgets
+
+this is an Android app made for devices to be released later this year
+
+in particular
+
+- Googlebooks
+- Pixel 11 series phones
